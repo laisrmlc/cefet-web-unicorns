@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+body{
+	margin:0;
+}
+
+#cabecalho{
+	background-color: #6175f0;
+	padding-left: 34px;
+	padding-top: 20px;
+	padding-bottom: 13px;
+	color: white;
+	
+}
+#cabecalho h1{
+	font-size:36px;
+	font-family: "Kaushan Script";	
+}
+#cabecalho h2{
+	font-size:24px;
+	font-family: "Times New Roman";
+	
+}
+#verdade img{
+	width: 310px;
+	float: left;
+	padding-right: 13px;
+	padding-bottom: 12px;
+}
+#verdade{
+	
+}
+#verdade h2{
+	color: black;
+	font-size: 24px;
+	font-family: "Times New Roman";
+	
+}
+#verdade p{
+	font-size: 14px;
+	font-family: "Arial";
+	
+}
+#verdade audio{
+	visibility: hidden;
+}
+#hoje{
+	float: right;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	padding-left: 35px;
+	padding-right: 35px;
+	background-color: #f8cef7;
+	border: solid 1px;
+	border-color: #ff56fb;
+	width: 405px;
+	margin-right: 25px;
+	box-sizing: border-box;
+	text-align: center;
+}
+#hoje img{
+	width: 112px;
+	height: 112px;
+}
+#hoje h3{
+	font-size: 18px;
+	font-family: "Times";
+}
+#musica{
+	
+}
+#musica h2{
+	color: black;
+	font-size:24px;
+	font-family: "Times New Roman";
+	margin: 12px;
+	
+}
+#musica p{
+	padding-left: 12px;
+}
+#musica p.espaco{
+	padding-left:34px;
+}
+div.destacado {
+	color: #004a79;
+	background-color: #c4caf3;
+}
